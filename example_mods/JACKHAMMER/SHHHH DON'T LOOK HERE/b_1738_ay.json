@@ -1,0 +1,31 @@
+{
+	"storyName": "Im like hey wassap hello",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "home_sweet_home",
+	"weekBefore": "jackhammer",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Jack Queen",
+			"jackson",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"jackson_menu",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"weekName": "1738"
+}

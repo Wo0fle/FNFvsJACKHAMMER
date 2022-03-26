@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jackson_dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF0000" x="0" y="0" width="455" height="570" pivotX="0" pivotY="0"/>
+	<SubTexture name="BF0001" x="0" y="0" width="455" height="570"/>
+	<SubTexture name="BF LOOP0000" x="455" y="0" width="455" height="570" pivotX="0" pivotY="0"/>
+	<SubTexture name="BF LOOP0001" x="455" y="0" width="455" height="570"/>
+	<SubTexture name="BF LOOP0002" x="910" y="0" width="455" height="570" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BF LOOP0003" x="910" y="0" width="455" height="570" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BF LOOP0004" x="1365" y="0" width="455" height="570" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BF LOOP0005" x="1365" y="0" width="455" height="570" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="countdown.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="countdown0000" x="0" y="0" width="70" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="countdown0001" x="70" y="0" width="70" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="countdown0002" x="140" y="0" width="70" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="countdown0003" x="0" y="70" width="70" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="countdown0004" x="70" y="70" width="70" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="countdown0005" x="140" y="70" width="70" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+</TextureAtlas>

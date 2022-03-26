@@ -1,0 +1,40 @@
+{
+	"storyName": "GRAKAKAKAKAKAKAKAKA",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "construction",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"jackson_menu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Jacking Around",
+			"jackson",
+			[
+				255,
+				255,
+				20
+			]
+		],
+		[
+			"Fuego",
+			"jackson",
+			[
+				255,
+				255,
+				20
+			]
+		]
+	],
+	"weekName": "Jackson Week"
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowd.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bump0000" x="2560" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="bump0001" x="2560" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="bump0002" x="2560" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="bump0003" x="0" y="1400" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="bump0004" x="0" y="1400" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="bump0005" x="2560" y="1400" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="bump0006" x="2560" y="1400" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>	
+	<SubTexture name="bump0007" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="bump0008" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="bump0009" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="bump0010" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="bump0011" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400"/>	
+</TextureAtlas>

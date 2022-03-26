@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.025,
+			"portrait": "jackson",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WOW!!! That was fun!!! xD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bop!"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "jackson",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "One more song plz???? :)"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "jackson",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "But if I win this one I get double chocolate? :O"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "jackson",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YESS!!! OK!!!! :3"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "jackson",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Get ready amigo! I'm gonna turn up the heat on this one!!! B3"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are we just ignoring that you are literally battling a talking jackhammer?"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "jackson",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Yup! :)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bup."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok then."
+		}
+	]
+}
