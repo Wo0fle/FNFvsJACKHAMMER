@@ -3,13 +3,19 @@
 	"difficulties": "Hard",
 	"hideFreeplay": true,
 	"weekBackground": "home_sweet_home",
-	"weekBefore": "jackhammer",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": false,
+	"weekBefore": "jackhammer",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"jackson_menu",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"Jack Queen",
@@ -21,11 +27,5 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"jackson_menu",
-		"bf",
-		"gf"
-	],
-	"hideStoryMode": false,
 	"weekName": "1738"
 }
