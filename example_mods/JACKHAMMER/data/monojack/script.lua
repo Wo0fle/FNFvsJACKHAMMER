@@ -38,7 +38,7 @@ end
 function opponentNoteHit(id, direction, noteType, isSustainNote)
 	if isSustainNote == false then
     health = getProperty('health')
-    newHealth = health - 0.02
+    newHealth = health - 0.015
     setProperty('health', newHealth)
   elseif isSustainNote == true then
     health = getProperty('health')
