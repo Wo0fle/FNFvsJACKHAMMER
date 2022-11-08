@@ -2,7 +2,7 @@
 Thanks for checking this mod out!
 
 Musician/Programmer - Woofle (Seby Amador)
-- https://linktr.ee/sebyamador
+- https://linktr.ee/wo0fle
 
 Artist - Beeblockzz
 - https://twitter.com/BeeBlockzz
